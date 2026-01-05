@@ -10,6 +10,6 @@
 
 [<img align="left" alt="Artem-Nikitin | Post" width="22px" src="https://cdn.simpleicons.org/gmail/#EA4335" />][post]
 
-[linkedin]: https://www.linkedin.com/in/artem-swift/
-[telegram]: http://t.me/nikitin_ios
-[post]: artem.ios.nikitin@gmail.com
+linkedin: https://www.linkedin.com/in/artem-swift/
+telegram: http://t.me/nikitin_ios
+post: artem.ios.nikitin@gmail.com
